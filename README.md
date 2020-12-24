@@ -1,2 +1,7 @@
-# This Project will be a clone of google and will be implementing 
-# some of the google features such as 'Search' and 'im feelin lucky' functionality.
+
+##### #### ######## ######## ######### ######## #### ##### #### ## 
+This is a project from The Odin Projects "Web Development 101" 
+
+Simply making a google homepage mockup
+
+##### #### ######## ######## ######### ##### ##### #### ##### #### 
